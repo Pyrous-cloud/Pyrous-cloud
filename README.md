@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pyrous-cloud
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning yes
-- 💞️ I’m looking to collaborate on ah tay
+- 🌱 I’m currently learning ethical hacking
 - 📫 How to reach me 
 
 <!---
